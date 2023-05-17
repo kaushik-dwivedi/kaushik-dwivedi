@@ -1,4 +1,4 @@
-### Hi there 👋 Kaushik Here form 
+### Hi there 👋 Kaushik Here 
 
 
 **Kaushik Dwivedi ♂️**  💼Capgemini as Analysist. Aspiring Data Analysist .
