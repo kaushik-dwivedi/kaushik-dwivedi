@@ -9,10 +9,11 @@ Here are some ideas about me:📂
 - Projects of [Data Visualization (Power BI) 📊](https://goldi90)
 - Blogs 📰 :
 - <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+- 
 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="[https://icons8.com/icon/98965/microsoft-excel](https://icons8.com/icon/13654/microsoft-excel)" alt="Excel" width="40" height="40"/> </a>
-  
+<p align="left"> 
+-![image](https://github.com/goldi90/goldi90/assets/47655460/705355da-887b-4578-9afc-0f871132c2d6)
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
