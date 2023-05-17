@@ -11,7 +11,7 @@ Here are some ideas about me:📂
  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://img.icons8.com/color/48/ms-excel.png" alt="ms-excel" height="40" width="40" /> </a>
-
+<a href="python.org" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v3"/></a>
   
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
