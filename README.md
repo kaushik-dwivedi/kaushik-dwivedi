@@ -17,5 +17,5 @@ Here are some ideas about me:📂
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - Blogs 📰 :
-  - [📧Mail Kaushik ](kaushikdwivedi22@gmail.com)
+  - [📧Mail Kaushik ](mailto:kaushikdwivedi22@gmail.com)
 <!-- <a  href="https://icons8.com/icon/13654/excel">Excel</a> icon by <a href="https://icons8.com">Icons8</a>
