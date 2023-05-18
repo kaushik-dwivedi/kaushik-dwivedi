@@ -5,7 +5,7 @@
 
 Here are some ideas about me:📂
 
-- Project of [Data Analysis](https://goldi90) 
+- Project of [Data Analysis]([https://goldi90](https://github.com/goldi90/DA)) 
 - Projects of [Data Visualization (Power BI) 📊](https://goldi90)
 
  <h3 align="left">Languages and Tools:</h3>
