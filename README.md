@@ -27,9 +27,12 @@ Here are some ideas about me:📂
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/></a>
    
 
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - Blogs 📰 :
+- 📫 How to reach me: ...
+  - 📞 +91 9082800180
   - [📧Mail Kaushik ](mailto:kaushikdwivedi22@gmail.com)
+  - <a href="https://www.linkedin.com/in/kaushik-dwivedi/" target="_blank"><img width="20" height="20" src="https://img.icons8.com/ios-glyphs/30/linkedin.png"       alt="linkedin"/></a>
 <!-- <a  href="https://icons8.com/icon/13654/excel">Excel</a> icon by <a href="https://icons8.com">Icons8</a>
