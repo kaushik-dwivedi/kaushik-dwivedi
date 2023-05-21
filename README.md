@@ -41,4 +41,4 @@ Hi there! I'm Kaushik Dwivedi, a Data Analyst at Capgemini with a passion for ex
 
 - Phone: +91 9082800180 ![Phone](https://img.shields.io/badge/-Phone-blue?logo=phone)
 - Email: [kaushikdwivedi22@gmail.com](mailto:kaushikdwivedi22@gmail.com) ![Email](https://img.shields.io/badge/-Email-red?logo=gmail)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kaushik-dwivedi/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kaushik-dwivedi/) 
