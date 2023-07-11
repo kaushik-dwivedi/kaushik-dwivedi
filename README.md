@@ -13,9 +13,9 @@ Hi there! I'm Kaushik Dwivedi, a Data Analyst at Capgemini with a passion for ex
 
 ### Python Projects
 
-- **Code:** [![GitHub](https://img.shields.io/badge/View%20Code-black?logo=github)](https://github.com/goldi90/KaushikDProject/tree/main/Data/Python%20Notebook)
+- **Repos:** [![GitHub](https://img.shields.io/badge/View%20Code-black?logo=github)](https://github.com/goldi90/KaushikDProject/tree/main/Data/Python%20Notebook)
 - **Description:**
-  Briefly describe the project, highlighting the objectives, methods used, and key findings. Mention any significant challenges faced or interesting insights gained during the analysis.
+  Here is all of my  Python Project and notebook upcomming days it will contain ml model in he form of joblib and pickels. Here i used  online note book such as kaggle and google colab.  
 - **Skills:**
   - Data cleaning
   - Exploratory data analysis
