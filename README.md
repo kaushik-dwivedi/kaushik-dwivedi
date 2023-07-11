@@ -28,6 +28,20 @@ Hi there! I'm Kaushik Dwivedi, a Data Analyst at Capgemini with a passion for ex
   - ![Jupyter](https://img.shields.io/badge/-Jupyter-orange?logo=jupyter&logoColor=white)
 
 <!-- Add more projects and sections as needed -->
+### Power BI Projects
+
+- **Sales Dashboard**
+  - **Skills:** Data Visualization, Business Intelligence
+  - **Description:** This project showcases a comprehensive sales dashboard with interactive visualizations and key performance indicators (KPIs).
+  - **Tools:** Power BI, Excel, SQL Server
+  - **Dashboard:** [sales_dashboard.pbix](Data/Power%20BI/sales_dashboard.pbix)
+
+- **Marketing Campaign Analysis**
+  - **Skills:** Data Analysis, Marketing Analytics
+  - **Description:** This project analyzes marketing campaign data to derive insights and optimize marketing strategies.
+  - **Tools:** Power BI, Excel, SQL Server
+  - **Dashboard:** [marketing_campaign_analysis.pbix](Data/Power%20BI/marketing_campaign_analysis.pbix)
+
 
 ## Languages and Tools
 
