@@ -11,7 +11,7 @@ Hi there! I'm Kaushik Dwivedi, a Data Analyst at Capgemini with a passion for ex
 
 ## Portfolio Projects
 
-### Stock Analysis with Python
+### Python Projects
 
 - **Code:** [![GitHub](https://img.shields.io/badge/View%20Code-black?logo=github)](https://github.com/goldi90/KaushikDProject/tree/main/Data/Python%20Notebook)
 - **Description:**
