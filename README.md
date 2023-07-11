@@ -31,7 +31,7 @@ Hi there! I'm Kaushik Dwivedi, a Data Analyst at Capgemini with a passion for ex
 ### Power BI Projects
 
 - **Dashboards**
-  - **Repos:** [![GitHub](https://img.shields.io/badge/View%20Code-black?logo=github)](https://github.com/goldi90/KaushikDProject/tree/main/Data/Python%20Notebook)
+  - **Repos:** [![GitHub](https://img.shields.io/badge/View%20Code-black?logo=github)](https://github.com/goldi90/KaushikDProject/tree/main/Data/BI)
   - **Skills:** Data Visualization, Business Intelligence
   - **Description:** This project showcases a comprehensive dashboards with interactive visualizations and key performance indicators (KPIs).
 - **Tools/Technologies:** 
