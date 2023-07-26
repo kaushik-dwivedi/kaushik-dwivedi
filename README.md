@@ -13,7 +13,7 @@ Hi there! I'm Kaushik Dwivedi, a Data Analyst at Capgemini with a passion for ex
 
 ### Python Projects
 
-- **Repos:** [![GitHub](https://img.shields.io/badge/View%20Code-black?logo=github)](https://github.com/goldi90/KaushikDProject/tree/main/Data/Python%20Notebook)
+- **Repos:** [![GitHub](https://img.shields.io/badge/View%20Code-black?logo=github)](https://github.com/goldi90/Data/tree/master/Python%20Notebook)
 - **Description:**
   Here is all of my  Python Project and notebook upcomming days it will contain ml model in he form of joblib and pickels. Here i used  online note book such as kaggle and google colab.  
 - **Skills:**
@@ -31,7 +31,7 @@ Hi there! I'm Kaushik Dwivedi, a Data Analyst at Capgemini with a passion for ex
 ### Power BI Projects
 
 - **Dashboards**
-  - **Repos:** [![GitHub](https://img.shields.io/badge/View%20Code-black?logo=github)](https://github.com/goldi90/KaushikDProject/tree/main/Data/BI)
+  - **Repos:** [![GitHub](https://img.shields.io/badge/View%20Code-black?logo=github)](https://github.com/goldi90/Data/tree/master/BI)
   - **Skills:** Data Visualization, Business Intelligence
   - **Description:** This project showcases a comprehensive dashboards with interactive visualizations and key performance indicators (KPIs).
 - **Tools/Technologies:** 
