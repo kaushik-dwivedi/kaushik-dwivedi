@@ -7,7 +7,7 @@ Hi there! I'm Kaushik Dwivedi, a Data Analyst at Capgemini with a passion for ex
 ## About Me
 
 - Pronouns: He/Him
-- Fun Fact: I love playing the guitar in my free time!
+- Fun Fact: I love to exploring cloud technologies!
 
 ## Portfolio Projects
 
