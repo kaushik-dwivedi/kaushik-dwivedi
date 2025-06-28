@@ -1,60 +1,89 @@
-# Kaushik Dwivedi's Portfolio
+# 📊 Kaushik Dwivedi's Portfolio
 
-## Introduction
+## 👋 Introduction
 
-Hi there! I'm Kaushik Dwivedi, a Data Analyst at Capgemini with a passion for exploring and analyzing data. Welcome to my GitHub portfolio, where you can find some of my projects and learn more about my skills and experiences.
+Hi there! I'm **Kaushik Dwivedi**, a Data Analyst with over 3 years of experience in automating data workflows, building robust ETL pipelines, and transforming data into actionable insights. Welcome to my GitHub portfolio—check out my Python, SQL, and data engineering projects below.
 
-## About Me
+---
 
-- Pronouns: He/Him
-- Fun Fact: I love to exploring cloud technologies!
+## 🙋‍♂️ About Me
 
-## Portfolio Projects
+- 💼 Role: Data Analyst (Data Engineering Focus)  
+- 📍 Location: Mumbai, India  
+- 🌱 Currently exploring: ML model deployment (joblib/pickle), Airflow orchestration, and modern ELT patterns  
+- ⚡ Fun Fact: I love automating data tasks and exploring cloud-native tech!
 
-### Python Projects
+---
 
-- **Repos:** [![GitHub](https://img.shields.io/badge/View%20Code-black?logo=github)](https://github.com/goldi90/Data/tree/master/Python%20Notebook)
-- **Description:**
-  Here is all of my  Python Project and notebook upcomming days it will contain ml model in he form of joblib and pickels. Here i used  online note book such as kaggle and google colab.  
-- **Skills:**
-  - Data cleaning
-  - Exploratory data analysis
-  - Visualization
-  - Statistical analysis
-- **Tools/Technologies:**
-  - ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-  - ![Pandas](https://img.shields.io/badge/-Pandas-blue?logo=pandas&logoColor=white)
-  - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=matplotlib&logoColor=white)
-  - ![Jupyter](https://img.shields.io/badge/-Jupyter-orange?logo=jupyter&logoColor=white)
+## 📁 Portfolio Projects
 
-<!-- Add more projects and sections as needed -->
-### Power BI Projects
+### 🐍 Python Projects
 
-- **Dashboards**
-  - **Repos:** [![GitHub](https://img.shields.io/badge/View%20Code-black?logo=github)](https://github.com/goldi90/Data/tree/master/BI)
-  - **Skills:** Data Visualization, Business Intelligence
-  - **Description:** This project showcases a comprehensive dashboards with interactive visualizations and key performance indicators (KPIs).
-- **Tools/Technologies:** 
-  - ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=power-bi&logoColor=white)
-  - ![SQL Server](https://img.shields.io/badge/-SQL%20Server-blue?logo=microsoft-sql-server&logoColor=white)
-  - ![Excel](https://img.shields.io/badge/-Excel-green?logo=microsoft-excel&logoColor=white)
- 
+- **Repository:** [Python Notebooks](https://github.com/goldi90/Data/tree/master/Python%20Notebook)  
+- **Description:**  
+  My collection of Python notebooks, focusing on exploratory data analysis, data cleaning, and statistical modeling. Built on Kaggle and Google Colab, and soon including ML models serialized with `joblib` and `pickle`.  
+- **Skills Applied:**  
+  - Data Cleaning & Preprocessing  
+  - Exploratory Data Analysis (EDA)  
+  - Visualization & Statistical Analysis  
+- **Tools:** Python, Pandas, Matplotlib, Jupyter
 
+---
 
+### 🗄️ Advanced SQL Analytics
 
+- **Repository:** [Sql--Advance-analytics](https://github.com/goldi90/Sql--Advance-analytics)  
+- **Description:**  
+  A comprehensive set of advanced SQL queries for analytics and business insights. This project covers everything from basic aggregate stats (MIN, MAX, AVG, MEDIAN) to advanced techniques like percentiles, correlation, linear regression, window functions, and pivoting—enabling raw tables to become actionable datasets.  
+- **Skills Applied:**  
+  - Descriptive & Inferential Statistics in SQL  
+  - Window Functions & Aggregation  
+  - Correlation & Regression Analysis  
+  - Complex Data Transformation  
+- **Tools:** SQL Server / T‑SQL
 
-## Languages and Tools
+---
 
-- ![Excel](https://img.shields.io/badge/-Excel-green?logo=microsoft-excel&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-- ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=power-bi&logoColor=white)
-- ![SQL Server](https://img.shields.io/badge/-SQL%20Server-blue?logo=microsoft-sql-server&logoColor=white)
-<!-- Add more languages and tools as needed -->
+### ⚙️ ELT Pipeline: Airflow + dbt + PostgreSQL
 
-## Contact Me
+- **Repository:** [DE_usingWetheStackAPI](https://github.com/goldi90/DE_usingWetheStackAPI)  
+- **Description:**  
+  This project demonstrates a full ELT (Extract → Load → Transform) pipeline using Airflow, dbt, PostgreSQL, and Docker. It extracts data from an external API, loads it into PostgreSQL, transforms it via dbt models, and orchestrates everything through Airflow—containerized for easy deployment.  
+- **Tech Stack:**  
+  - Apache Airflow (workflow orchestration)  
+  - dbt (SQL-based modeling, testing, and docs)  
+  - PostgreSQL  
+  - Docker & Docker Compose  
+  - Python + Pandas  
+- **Highlights:**  
+  - Modular ELT pipeline with dbt documentation  
+  - Airflow UI for monitoring workflows  
+  - Automated data quality tests (dbt)
 
-- Phone: +91 9082800180 ![Phone](https://img.shields.io/badge/-Phone-blue?logo=phone&logoColor=white)
-- Email :  [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:kaushikdwivedi22@gmail.com)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-dwivedi/) 
+---
 
+## 📝 Resume
 
+You can view or download my full resume [here (PDF)](https://github.com/goldi90/goldi90/blob/main/Kaushik%20Dwivedi-DE.pdf).
+
+---
+
+## 🛠️ Languages & Tools
+
+- Python, Pandas, Jupyter  
+- SQL / T‑SQL  
+- Apache Airflow, dbt, PostgreSQL  
+- Docker, Git
+
+---
+
+## 📞 Contact Me
+
+- 📱 Phone: +91 90828 00180  
+- 📧 Email: [kaushikdwivedi22@gmail.com](mailto:kaushikdwivedi22@gmail.com)  
+- 💼 LinkedIn: [Kaushik Dwivedi](https://www.linkedin.com/in/kaushikdwivedi/)  
+- 💻 GitHub: [goldi90](https://github.com/goldi90)
+
+---
+
+🚀 I’m actively seeking roles in **Data Engineering**, where I can build scalable pipelines, automate data workflows, and deliver clean, production-ready datasets. Let’s connect!
