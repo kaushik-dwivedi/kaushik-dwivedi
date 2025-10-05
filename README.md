@@ -64,7 +64,7 @@ Hi there! I'm **Kaushik Dwivedi**, a Data Analyst with over 3 years of experienc
 
 ## 📝 Resume
 
-You can view or download my full resume [here (PDF)](https://github.com/goldi90/goldi90/blob/main/Kaushik%20Dwivedi-DE.pdf).
+You can view or download my full resume [here (PDF)](https://github.com/kaushik-dwivedi/kaushik-dwivedi/blob/main/Kaushik_dwivedi_CV.pdf).
 
 ---
 
