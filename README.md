@@ -8,7 +8,7 @@ Hi there! I'm **Kaushik Dwivedi**, a Data Analyst with over 3 years of experienc
 
 ## 🙋‍♂️ About Me
 
-- 💼 Role: Data Analyst (Data Engineering Focus)  
+- 💼 Role: Data Analyst   
 - 📍 Location: Mumbai, India  
 - 🌱 Currently exploring: Airflow orchestration, and modern ELT patterns  
 - ⚡ Fun Fact: I love automating data tasks and exploring cloud-native tech!
