@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 
-Hi there! I'm **Kaushik Dwivedi**, a Data Analyst with over 3 years of experience in automating data workflows, building robust ETL pipelines, and transforming data into actionable insights. Welcome to my GitHub portfolio—check out my Python, SQL, and data engineering projects below.
+Hi there! I'm **Kaushik Dwivedi**, a Data Analyst with over 3 years of experience in automating data workflows, building robust ETL pipelines, and transforming data into actionable insights. Welcome to my GitHub portfolio—check out my Python, SQL, and data warehousing projects below.
 
 ---
 
