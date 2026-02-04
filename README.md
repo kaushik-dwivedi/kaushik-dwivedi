@@ -42,4 +42,4 @@ You can view or download my full resume [here (PDF)](https://github.com/kaushik-
 
 ---
 
-🚀 I’m actively seeking roles in **Data Analysit ,Datawarehouse developer**, where I can build scalable pipelines, automate data workflows, and deliver clean, production-ready datasets. Let’s connect!
+🚀 I’m actively seeking roles in **Data analyst ,Datawarehouse developer**, where I can build scalable pipelines, automate data workflows, and deliver clean, production-ready datasets. Let’s connect!
