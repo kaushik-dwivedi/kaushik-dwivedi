@@ -16,8 +16,7 @@ Hi there! I'm **Kaushik Dwivedi**, a Data Analyst with over 3 years of experienc
 ---
 
 ## 📁 Portfolio Projects
-
-### 🐍 Python Projects
+## Data Warehouse project
 
 ## 📝 Resume
 
