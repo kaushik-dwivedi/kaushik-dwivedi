@@ -1,6 +1,10 @@
-# 💫 About Me:
-I` m currently working on Datawarehouse project<br>I` m looking to collabrate on Data enginner project<br>I` m looking for help in  Python advance level,(DSA) <br>I` m  currently learning  prefect<br>Ask me about Pyspark ,  SQL  Server, Azure , <br>Fun fact i am not funny guy<br>
-
+# 💫 About Me
+- 🔭 I’m currently working on a **Data Warehouse project**
+- 🤝 I’m looking to **collaborate on Data Engineering projects**
+- 🧠 I’m looking for help with **Advanced Python and Data Structures & Algorithms (DSA)**
+- 🌱 I’m currently learning **Prefect**
+- 💬 Ask me about **PySpark, SQL Server, and Azure**
+- 😄 Fun fact: **I’m not a funny guy.** But I enjoy solving complex data problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaushikdwivedi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikdwivedi22@gmail.com) 
