@@ -102,10 +102,10 @@ Python | Power BI
 
 # ⚙️ Data Engineering Projects
 
-## 🔹 Project 1 - [Project Name]
+## 🔹 🔹 Modern Data Warehouse with GCP & dbt - [OLIST]
 
 **Objective:**
-Describe the engineering goal here.
+Built an end-to-end cloud-based data analytics pipeline by ingesting the Olist E-commerce dataset into Google Cloud Platform (GCP), designing a data warehouse, and implementing data transformations using dbt.
 
 **Key Skills:**
 
@@ -114,10 +114,10 @@ Describe the engineering goal here.
 * Workflow Automation
 
 **Tech Stack:**
-Python | SQL | Airflow
+DBT | BIGQUERY | SQL
 
 **Repository:**
-[Project Link]
+[https://github.com/kaushik-dwivedi/GCP_DBT]
 
 ---
 
