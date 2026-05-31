@@ -161,9 +161,9 @@ Docker | SQL | Python
 ## 📈 GitHub Stats
 
 ```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushik-dwivedi&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik-dwivedi&layout=compact)
 ```
 
 ---
@@ -179,8 +179,8 @@ Docker | SQL | Python
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/your-profile
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* LinkedIn: https://www.linkedin.com/in/kaushikdwivedi/
+* Email: [kaushikdwivedi22@gmail.com](mailto:kaushikdwivedi22@gmail.com)
 
 ---
 
